@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+
+.sora-<uniquifier> {
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+
+  .container-m0{
+    display: inline-block;
+    cursor: pointer;
+   
+  }
+ 
+  .bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: rgb(101 163 13 / var(--tw-bg-opacity, 1));
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
+.hlw{
+position: absolute;
+top: 10px;
+}
+
+.green-box{
+  border-radius: 30px;
+}
+
+.s.star-t{
+position: a;
+}
+
+.common{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}tar-im{
+
+margin-left: 30px;
+
+}
+
+
+
+
+.checked {
+  color: orange;
+}
+
+.grid-v{
+  
+}
